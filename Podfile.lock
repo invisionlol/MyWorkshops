@@ -1,0 +1,57 @@
+PODS:
+  - Alamofire (5.0.0-beta.7)
+  - AlamofireImage (4.0.0-beta.3):
+    - Alamofire (~> 5.0.0-beta.6)
+  - Charts (3.3.0):
+    - Charts/Core (= 3.3.0)
+  - Charts/Core (3.3.0)
+  - DynamicColor (4.0.3)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - IQKeyboardManagerSwift (6.1.1)
+  - QRCode (2.0)
+  - QRCodeReader.swift (9.0.1)
+  - RandomColorSwift (1.0.0)
+  - XCDYouTubeKit (2.6.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-beta.5)
+  - AlamofireImage (= 4.0.0-beta.3)
+  - Charts (~> 3.3.0)
+  - DynamicColor (~> 4.0.2)
+  - FMDB (~> 2.7.5)
+  - IQKeyboardManagerSwift (~> 6.1.1)
+  - QRCode (~> 2.0)
+  - QRCodeReader.swift (~> 9.0.1)
+  - RandomColorSwift (~> 1.0)
+  - XCDYouTubeKit (~> 2.6.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - Charts
+    - DynamicColor
+    - FMDB
+    - IQKeyboardManagerSwift
+    - QRCode
+    - QRCodeReader.swift
+    - RandomColorSwift
+    - XCDYouTubeKit
+
+SPEC CHECKSUMS:
+  Alamofire: bd07938ceecad59d2492aeecb1f785a8f2721160
+  AlamofireImage: 980b4eccaed1fa559d78bc479d067ff89d23bc95
+  Charts: e0dd4cd8f257bccf98407b58183ddca8e8d5b578
+  DynamicColor: bf19b33fe404c59a68e64af95cc6b017346e7e75
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  IQKeyboardManagerSwift: 977affaeb4d6e971975c7790a6850f31d38f1207
+  QRCode: f98a1886c8f37523704a7512a4c0cd45b34c18a4
+  QRCodeReader.swift: 96292a5612fbc2fd9a0b26f93fa5164c8d02f59d
+  RandomColorSwift: 9f85058b721665d52d239ca166a913e083506444
+  XCDYouTubeKit: 1457e9529ddd31d580e2542bf64e8dd2e7fd8f44
+
+PODFILE CHECKSUM: 433fbad0861d8f79e126fce770e69f5ab7436182
+
+COCOAPODS: 1.7.5
