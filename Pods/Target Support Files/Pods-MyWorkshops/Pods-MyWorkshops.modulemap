@@ -1,0 +1,6 @@
+framework module Pods_MyWorkshops {
+  umbrella header "Pods-MyWorkshops-umbrella.h"
+
+  export *
+  module * { export * }
+}

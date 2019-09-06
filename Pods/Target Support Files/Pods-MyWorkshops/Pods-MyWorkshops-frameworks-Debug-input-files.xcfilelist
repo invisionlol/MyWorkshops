@@ -1,0 +1,11 @@
+${PODS_ROOT}/Target Support Files/Pods-MyWorkshops/Pods-MyWorkshops-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/AlamofireImage/AlamofireImage.framework
+${BUILT_PRODUCTS_DIR}/Charts/Charts.framework
+${BUILT_PRODUCTS_DIR}/DynamicColor/DynamicColor.framework
+${BUILT_PRODUCTS_DIR}/FMDB/FMDB.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework
+${BUILT_PRODUCTS_DIR}/QRCode/QRCode.framework
+${BUILT_PRODUCTS_DIR}/QRCodeReader.swift/QRCodeReader.framework
+${BUILT_PRODUCTS_DIR}/RandomColorSwift/RandomColorSwift.framework
+${BUILT_PRODUCTS_DIR}/XCDYouTubeKit/XCDYouTubeKit.framework
